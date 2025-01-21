@@ -1,8 +1,8 @@
 # Gallery Downloader
 
 A simple batch script for downloading images and videos from online galleries using `gallery-dl`. 
-This script allows users to quickly download media files by specifying a gallery URL and a preferred output directory. 
-The downloaded files are saved using a specified base filename, automatically appending numbers to avoid conflicts.
+This script allows users to quickly download media files with `gallery-dl` without using the command prompt by specifying a gallery URL and a preferred output directory using a native Windows UI. 
+The downloaded files are saved using a specified base filename, and automatically appending numbers to avoid conflicts.
 
 ## Features ## 
 
